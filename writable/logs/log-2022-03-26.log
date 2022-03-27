@@ -1,0 +1,172 @@
+ERROR - 2022-03-26 15:38:29 --> Unknown column 'alumno.id' in 'where clause'
+CRITICAL - 2022-03-26 15:38:29 --> Call to a member function getFirstRow() on bool
+#0 X:\escuela\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, '4')
+#1 X:\escuela\app\Controllers\API\AlumnoController.php(31): CodeIgniter\BaseModel->find('4')
+#2 X:\escuela\system\CodeIgniter.php(832): App\Controllers\API\AlumnoController->show('4')
+#3 X:\escuela\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\AlumnoController))
+#4 X:\escuela\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 X:\escuela\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 X:\escuela\system\Commands\Server\rewrite.php(43): require_once('X:\\escuela\\publ...')
+#7 {main}
+ERROR - 2022-03-26 15:38:31 --> Unknown column 'alumno.id' in 'where clause'
+CRITICAL - 2022-03-26 15:38:31 --> Call to a member function getFirstRow() on bool
+#0 X:\escuela\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, '4')
+#1 X:\escuela\app\Controllers\API\AlumnoController.php(31): CodeIgniter\BaseModel->find('4')
+#2 X:\escuela\system\CodeIgniter.php(832): App\Controllers\API\AlumnoController->show('4')
+#3 X:\escuela\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\AlumnoController))
+#4 X:\escuela\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 X:\escuela\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 X:\escuela\system\Commands\Server\rewrite.php(43): require_once('X:\\escuela\\publ...')
+#7 {main}
+ERROR - 2022-03-26 15:42:20 --> Unknown column 'alumno.id' in 'where clause'
+CRITICAL - 2022-03-26 15:42:20 --> Call to a member function getFirstRow() on bool
+#0 X:\escuela\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, '$1')
+#1 X:\escuela\app\Controllers\API\AlumnoController.php(31): CodeIgniter\BaseModel->find('$1')
+#2 X:\escuela\system\CodeIgniter.php(832): App\Controllers\API\AlumnoController->show('$1')
+#3 X:\escuela\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\AlumnoController))
+#4 X:\escuela\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 X:\escuela\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 X:\escuela\system\Commands\Server\rewrite.php(43): require_once('X:\\escuela\\publ...')
+#7 {main}
+ERROR - 2022-03-26 15:42:21 --> Unknown column 'alumno.id' in 'where clause'
+CRITICAL - 2022-03-26 15:42:21 --> Call to a member function getFirstRow() on bool
+#0 X:\escuela\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, '$1')
+#1 X:\escuela\app\Controllers\API\AlumnoController.php(31): CodeIgniter\BaseModel->find('$1')
+#2 X:\escuela\system\CodeIgniter.php(832): App\Controllers\API\AlumnoController->show('$1')
+#3 X:\escuela\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\AlumnoController))
+#4 X:\escuela\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 X:\escuela\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 X:\escuela\system\Commands\Server\rewrite.php(43): require_once('X:\\escuela\\publ...')
+#7 {main}
+ERROR - 2022-03-26 15:42:29 --> Unknown column 'alumno.id' in 'where clause'
+CRITICAL - 2022-03-26 15:42:29 --> Call to a member function getFirstRow() on bool
+#0 X:\escuela\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, '1')
+#1 X:\escuela\app\Controllers\API\AlumnoController.php(31): CodeIgniter\BaseModel->find('1')
+#2 X:\escuela\system\CodeIgniter.php(832): App\Controllers\API\AlumnoController->show('1')
+#3 X:\escuela\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\AlumnoController))
+#4 X:\escuela\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 X:\escuela\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 X:\escuela\system\Commands\Server\rewrite.php(43): require_once('X:\\escuela\\publ...')
+#7 {main}
+ERROR - 2022-03-26 15:42:31 --> Unknown column 'alumno.id' in 'where clause'
+CRITICAL - 2022-03-26 15:42:31 --> Call to a member function getFirstRow() on bool
+#0 X:\escuela\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, '1')
+#1 X:\escuela\app\Controllers\API\AlumnoController.php(31): CodeIgniter\BaseModel->find('1')
+#2 X:\escuela\system\CodeIgniter.php(832): App\Controllers\API\AlumnoController->show('1')
+#3 X:\escuela\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\AlumnoController))
+#4 X:\escuela\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 X:\escuela\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 X:\escuela\system\Commands\Server\rewrite.php(43): require_once('X:\\escuela\\publ...')
+#7 {main}
+ERROR - 2022-03-26 15:42:50 --> Unknown column 'alumno.id' in 'where clause'
+CRITICAL - 2022-03-26 15:42:50 --> Call to a member function getFirstRow() on bool
+#0 X:\escuela\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, '1')
+#1 X:\escuela\app\Controllers\API\AlumnoController.php(31): CodeIgniter\BaseModel->find('1')
+#2 X:\escuela\system\CodeIgniter.php(832): App\Controllers\API\AlumnoController->show('1')
+#3 X:\escuela\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\AlumnoController))
+#4 X:\escuela\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 X:\escuela\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 X:\escuela\system\Commands\Server\rewrite.php(43): require_once('X:\\escuela\\publ...')
+#7 {main}
+ERROR - 2022-03-26 15:42:51 --> Unknown column 'alumno.id' in 'where clause'
+CRITICAL - 2022-03-26 15:42:51 --> Call to a member function getFirstRow() on bool
+#0 X:\escuela\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, '1')
+#1 X:\escuela\app\Controllers\API\AlumnoController.php(31): CodeIgniter\BaseModel->find('1')
+#2 X:\escuela\system\CodeIgniter.php(832): App\Controllers\API\AlumnoController->show('1')
+#3 X:\escuela\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\AlumnoController))
+#4 X:\escuela\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 X:\escuela\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 X:\escuela\system\Commands\Server\rewrite.php(43): require_once('X:\\escuela\\publ...')
+#7 {main}
+ERROR - 2022-03-26 15:46:10 --> Unknown column 'alumno.id' in 'where clause'
+CRITICAL - 2022-03-26 15:46:10 --> Call to a member function getFirstRow() on bool
+#0 X:\escuela\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, '1')
+#1 X:\escuela\app\Controllers\API\AlumnoController.php(31): CodeIgniter\BaseModel->find('1')
+#2 X:\escuela\system\CodeIgniter.php(832): App\Controllers\API\alumnoController->show('1')
+#3 X:\escuela\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\alumnoController))
+#4 X:\escuela\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 X:\escuela\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 X:\escuela\system\Commands\Server\rewrite.php(43): require_once('X:\\escuela\\publ...')
+#7 {main}
+ERROR - 2022-03-26 16:14:01 --> Unknown column 'alumno.id' in 'where clause'
+CRITICAL - 2022-03-26 16:14:01 --> Call to a member function getFirstRow() on bool
+#0 X:\escuela\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, '1')
+#1 X:\escuela\app\Controllers\API\AlumnoController.php(33): CodeIgniter\BaseModel->find('1')
+#2 X:\escuela\system\CodeIgniter.php(832): App\Controllers\API\AlumnoController->show('1')
+#3 X:\escuela\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\AlumnoController))
+#4 X:\escuela\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 X:\escuela\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 X:\escuela\system\Commands\Server\rewrite.php(43): require_once('X:\\escuela\\publ...')
+#7 {main}
+ERROR - 2022-03-26 16:19:35 --> Unknown column 'alumno.id' in 'where clause'
+CRITICAL - 2022-03-26 16:19:35 --> Call to a member function getFirstRow() on bool
+#0 X:\escuela\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, '1')
+#1 X:\escuela\app\Controllers\API\AlumnoController.php(33): CodeIgniter\BaseModel->find('1')
+#2 X:\escuela\system\CodeIgniter.php(832): App\Controllers\API\AlumnoController->show('1')
+#3 X:\escuela\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\AlumnoController))
+#4 X:\escuela\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 X:\escuela\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 X:\escuela\system\Commands\Server\rewrite.php(43): require_once('X:\\escuela\\publ...')
+#7 {main}
+ERROR - 2022-03-26 16:21:30 --> Unknown column 'alumno.id' in 'where clause'
+CRITICAL - 2022-03-26 16:21:30 --> Call to a member function getFirstRow() on bool
+#0 X:\escuela\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, '1')
+#1 X:\escuela\app\Controllers\API\AlumnoController.php(33): CodeIgniter\BaseModel->find('1')
+#2 X:\escuela\system\CodeIgniter.php(832): App\Controllers\API\AlumnoController->show('1')
+#3 X:\escuela\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\AlumnoController))
+#4 X:\escuela\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 X:\escuela\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 X:\escuela\system\Commands\Server\rewrite.php(43): require_once('X:\\escuela\\publ...')
+#7 {main}
+ERROR - 2022-03-26 16:50:49 --> Unknown column 'alumno.id' in 'where clause'
+CRITICAL - 2022-03-26 16:50:49 --> Call to a member function getFirstRow() on bool
+#0 X:\escuela\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, '1')
+#1 X:\escuela\app\Controllers\API\AlumnoController.php(33): CodeIgniter\BaseModel->find('1')
+#2 X:\escuela\system\CodeIgniter.php(832): App\Controllers\API\AlumnoController->show('1')
+#3 X:\escuela\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\AlumnoController))
+#4 X:\escuela\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 X:\escuela\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 X:\escuela\system\Commands\Server\rewrite.php(43): require_once('X:\\escuela\\publ...')
+#7 {main}
+ERROR - 2022-03-26 16:51:11 --> Unknown column 'alumno.id' in 'where clause'
+ERROR - 2022-03-26 16:52:09 --> Unknown column 'alumno.id' in 'where clause'
+CRITICAL - 2022-03-26 16:52:09 --> Call to a member function getFirstRow() on bool
+#0 X:\escuela\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, '1')
+#1 X:\escuela\app\Controllers\API\AlumnoController.php(33): CodeIgniter\BaseModel->find('1')
+#2 X:\escuela\system\CodeIgniter.php(832): App\Controllers\API\AlumnoController->show('1')
+#3 X:\escuela\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\AlumnoController))
+#4 X:\escuela\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 X:\escuela\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 X:\escuela\system\Commands\Server\rewrite.php(43): require_once('X:\\escuela\\publ...')
+#7 {main}
+ERROR - 2022-03-26 16:52:43 --> Unknown column 'alumno.id' in 'where clause'
+ERROR - 2022-03-26 16:59:56 --> Unknown column 'alumno.id' in 'where clause'
+CRITICAL - 2022-03-26 16:59:57 --> Call to a member function getFirstRow() on bool
+#0 X:\escuela\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, '2')
+#1 X:\escuela\app\Controllers\API\AlumnoController.php(34): CodeIgniter\BaseModel->find('2')
+#2 X:\escuela\system\CodeIgniter.php(832): App\Controllers\API\AlumnoController->show('2')
+#3 X:\escuela\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\AlumnoController))
+#4 X:\escuela\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 X:\escuela\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 X:\escuela\system\Commands\Server\rewrite.php(43): require_once('X:\\escuela\\publ...')
+#7 {main}
+ERROR - 2022-03-26 17:00:19 --> Unknown column 'alumno.id' in 'where clause'
+CRITICAL - 2022-03-26 17:00:19 --> Call to a member function getFirstRow() on bool
+#0 X:\escuela\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, '2')
+#1 X:\escuela\app\Controllers\API\AlumnoController.php(34): CodeIgniter\BaseModel->find('2')
+#2 X:\escuela\system\CodeIgniter.php(832): App\Controllers\API\AlumnoController->show('2')
+#3 X:\escuela\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\AlumnoController))
+#4 X:\escuela\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 X:\escuela\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 X:\escuela\system\Commands\Server\rewrite.php(43): require_once('X:\\escuela\\publ...')
+#7 {main}
+ERROR - 2022-03-26 17:00:59 --> Unknown column 'alumno.id' in 'where clause'
+CRITICAL - 2022-03-26 17:00:59 --> Call to a member function getFirstRow() on bool
+#0 X:\escuela\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, '2')
+#1 X:\escuela\app\Controllers\API\AlumnoController.php(34): CodeIgniter\BaseModel->find('2')
+#2 X:\escuela\system\CodeIgniter.php(832): App\Controllers\API\AlumnoController->show('2')
+#3 X:\escuela\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\AlumnoController))
+#4 X:\escuela\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 X:\escuela\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 X:\escuela\system\Commands\Server\rewrite.php(43): require_once('X:\\escuela\\publ...')
+#7 {main}
